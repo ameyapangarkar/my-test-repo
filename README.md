@@ -1,2 +1,2 @@
 # my-test-repo
-Testing GitHub repos
+Testing GitHub repositories.
